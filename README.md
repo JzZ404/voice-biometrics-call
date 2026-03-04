@@ -7,19 +7,10 @@ VoiceGuard is an AI-powered call screening system that protects customers by aut
 
 ## How It Works
 
-```
-Incoming Call
-     ↓
-🎙️  Live audio captured — caller prompted to speak
-     ↓
-🤖  Stage 1: Robocall Detection
-     → Robocall detected?  ❌ BLOCKED
-     → Human?              ↓ continue
-     ↓
-🧬  Stage 2: Voice Identity Verification
-     → Verified employee?  ✅ CALL CONNECTED
-     → Unknown caller?     ❌ BLOCKED
-```
+
+<img width="1082" height="1382" alt="Group 1 (3)" src="https://github.com/user-attachments/assets/a641deb9-717b-476c-a935-c65ee12d7cf9" />
+
+
 
 ---
 
