@@ -91,8 +91,3 @@ Key parameters can be adjusted in `app.py`:
 - **Similarity Matching** — Cosine distance (scipy)
 - **Interface** — Gradio + Python
 
----
-
-## License
-
-MIT License
